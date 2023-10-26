@@ -13,4 +13,4 @@ henrique.rafael.silva@escola.pr.gov.br
 
 
 
-!{}(https://media.tenor.com/WSwfBWKG6P0AAAAC/laugh-haha.gif)
+![](https://media.tenor.com/WSwfBWKG6P0AAAAC/laugh-haha.gif)
