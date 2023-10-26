@@ -1,16 +1,14 @@
-### Hi there 👋
+### bem vindo ao meu perfil.🎱
 
-<!--
-**rafaelhenrique08/rafaelhenrique08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- meu nome e Henrique.
+- utilizo a plataforma alura para aperfecoar meu aprendizado
+- estou me dessenvolvendo nas linguas javaScript,HIML e CSS.
+- utilizo este espaco para minha organizacao e compartilhamento do meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### voce pode entregar em contato comigo 🎈
+
+henrique.rafael.silva@escola.pr.gov.br
+
+
